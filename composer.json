@@ -1,0 +1,18 @@
+{
+    "name": "zwen-lab/laravel-rate-limit",
+    "description": "laravel api rate limit middleware",
+    "keywords": ["laravel", "rate limit", "middleware"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zwen",
+            "email": "291235020@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Zwen\\RateLimit\\": "src"
+        }
+    }
+}
